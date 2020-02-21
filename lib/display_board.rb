@@ -2,7 +2,11 @@
 # out the current state.
 def display_board (board)
 end
-puts "#{board [0]} #{board [1]} #{board [2]}" 
+puts "#{board [0]} #{board [1]} #{board [2]}"
+Put "------------"
 puts "#{board [3]} #{board [4]} #{board [5]}"
+Put "------------"
 puts "#{board [6]} #{board [7]} #{board [8]}"
+Put "------------"
+
 end
